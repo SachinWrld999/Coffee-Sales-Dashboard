@@ -1,0 +1,11 @@
+This Coffee Sales Dashboard, created in MS Excel, provides an insightful analysis of the sales performance of four coffee types: Arabica, Excelsa, Liberica, and Robusta. It visualizes data across three countries: the United States, Ireland, and the United Kingdom. Key elements of the dashboard include:
+
+Total Sales Over Time: A line chart showing monthly sales trends for each coffee type from 2020 to 2022. This helps identify seasonal fluctuations and patterns across the different coffee varieties.
+
+Sales by Country: A bar chart highlighting the total sales contribution from each country, with the United States showing the highest sales, followed by Ireland and the United Kingdom.
+
+Top 5 Customers: A ranked list of the five highest-paying customers, including names and the total amounts spent, showing Allis Wilmore as the top customer.
+
+Filters: Interactive filters for Roast Type, Size, and Loyalty Card, allowing users to drill down into specific sales insights based on these parameters.
+
+Overall, the dashboard offers a clear, data-driven view of coffee sales, helping stakeholders identify top-selling products, key customers, and trends over time
